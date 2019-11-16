@@ -27,6 +27,13 @@ hr {
 	max-width: 65px;
 }
 
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .buffer {
 	height: 2rem;
 }
